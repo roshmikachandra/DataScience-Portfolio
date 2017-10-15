@@ -6,5 +6,5 @@ My background is in the intersection of Economics, Sociology, and Computer Scien
 
 My professional interest is in data science, machine learning, and data analytics. I have formal training and experience in the following:
 
-* ** Regression methods ** 
+* **Regression and classification methods** : Linear, logistic, and probit regression, classification methods like Support vector machine (SVM) and k Nearest Neighbor (kNN). 
 
