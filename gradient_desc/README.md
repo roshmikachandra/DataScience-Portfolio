@@ -11,7 +11,7 @@
 * **Algorithms:
 
 ```
-Bhal
+<a href="http://www.codecogs.com/eqnedit.php?latex=\LARGE&space;\Theta_{t&plus;1}&space;\leftarrow&space;\theta_t&space;-\eta&space;\bigtriangledown&space;\ell(\theta_t;x_t,y_t)." target="_blank"><img src="http://latex.codecogs.com/gif.latex?\LARGE&space;\Theta_{t&plus;1}&space;\leftarrow&space;\theta_t&space;-\eta&space;\bigtriangledown&space;\ell(\theta_t;x_t,y_t)." title="\LARGE \Theta_{t+1} \leftarrow \theta_t -\eta \bigtriangledown \ell(\theta_t;x_t,y_t)." /></a>
 ```
 
 
