@@ -6,9 +6,9 @@
 
 * **Features selection and normaliation** : All except fnlwgt, and education-num. The continuous variables were normalized via z-score normalization to control the norm of the feature vectors, and the categorical variables were converted to one-hot binary vector via dummy encoding. The last column of each encoding was removed to avoid multi-collinearity.
 
-* **Measure of accuracy** : Area under the curve (AUC)
+* **Measure of accuracy** : Area under the curve (AUC).
 
-* **Algorithms:
+* **Algorithm** : Stochastic gradient descent.
 
 ```
 Theta_{t+1} <- Theta_t - \eta x gradient (l(Theta_t;x_t,y_t))
@@ -18,5 +18,9 @@ Here l(Theta;x,y) is the logistic lossfuction with y \in {-1,1}.
 \eta is the learning rate which is set to 1/\sqrt{t} after tuning.
 
 ```
+
+* **Performance numbers** :
+
+** a
 
 
