@@ -13,6 +13,10 @@
 ```
 Theta_{t+1} <- Theta_t - \eta x gradient (l(Theta_t;x_t,y_t))
 
+Here l(Theta;x,y) is the logistic lossfuction with y \in {-1,1}.
+
+\eta is the learning rate which is set to 1/\sqrt{t} after tuning.
+
 ```
 
 
