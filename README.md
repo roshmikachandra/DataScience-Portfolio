@@ -22,9 +22,9 @@ I additionally have (both theoretical and practical) experience in the following
 
 * **Spectral analysis of data** : Principal component analysis (PCA), and singular value decomposition (SVD), feature selection and transformation.
 
-* **Large-scale machine learning tools** : R, Python, Map-reduce, and Hadoop.
+* **Large-scale machine learning tools** : R, Python, Map-reduce, Hadoop, and Tensorflow. 
 
 ## This repository
 
-In this repository I showcase some of my codes from my past projects, and data science learning experience.
+I showcase some of my codes from my past projects, and data science learning experience.
 
