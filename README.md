@@ -8,3 +8,4 @@ My professional interest is in data science, machine learning, and data analytic
 
 * **Regression methods and hypothesis testing** : Linear, logistic, and probit regression. Measure of accuracy like R-squared, Area Under the Curve (AUC), precision and recall. Statistical significance test for issues like multi-collinearity, ommited variable bias, and heteroskedasticity, and approaches to mitigate them.
 
+* **Time series analysis**  : Auto-regressive and moving average models, Vector autoregressive (VAR) and vector error correcting (VEC) models. Statistical tests and mitigation strategies for issues like non-stationarity, cointegration etc.  
