@@ -19,7 +19,7 @@ Here l(Theta;x,y) is the logistic lossfuction with y \in {-1,1}.
 
 ```
 
-* **Performance numbers** :
+* **Performance evaluation** :
 
   AUC:
   
