@@ -22,8 +22,8 @@ Here l(Theta;x,y) is the logistic lossfuction with y \in {-1,1}.
 * **Performance evaluation (AUC)** :
 ```
   AUC: 0.8812888
+```
 
 ![Screenshot](Rplot.png)
-```
 
 
