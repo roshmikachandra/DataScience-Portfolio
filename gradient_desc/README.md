@@ -27,6 +27,6 @@ Here l(Theta;x,y) is the logistic lossfuction with y \in {-1,1}.
   
   Recall:
   
-  * ** Receiver operating characteristic (ROC) curve ** :
+  * **Receiver operating characteristic (ROC) curve** :
 
 
